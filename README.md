@@ -18,7 +18,7 @@ Step 3 :- After signing in you will be redirected to homepage :-
 ![Img1](Homepage.png)
 
 Step 4 :- Add your task under Enter task placeholder and click on button to add it :- 
-![Img1](Add task.png)
+![Img1](Add%20task.png)
 
 Step 5 :- Click on check button on right side of task to mark task as completed :- 
 ![Img1](change_task_status.png)
