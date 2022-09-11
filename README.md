@@ -31,5 +31,7 @@ Step 7 :- Click on delete button on right side of edit button to delete task  :-
 
 This is the TaskApp project created using MERN stack with Redux and JWT token for authentication
 
+Deployment link :- https://gaurav-react-taskapp.netlify.app/signup
+
 
 
